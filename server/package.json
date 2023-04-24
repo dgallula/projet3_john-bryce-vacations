@@ -1,0 +1,26 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "type": "module",
+  "author": "david",
+  "license": "ISC",
+  "dependencies": {
+    "and": "^0.0.3",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.3",
+    "instal": "^0.0.1-security",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "server": "^1.0.37",
+    "socket.io": "^4.5.0",
+    "webpack": "^5.73.0"
+  }
+}
